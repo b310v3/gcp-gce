@@ -13,5 +13,5 @@ go build sysinfo.go
 ```
 接下來執行便會現實出目前系統的資訊
 ```
-sysinfo
+./sysinfo
 ```
